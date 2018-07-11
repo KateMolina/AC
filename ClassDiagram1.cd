@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="avioCreditSelenium.SecondPageApplicationFactory" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIAEAAEBYBDiQAUIAgBEgKiAACIIlAgwAQGDgEAmAEA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="avioCreditSelenium.FirstPageApplicationFactory" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAQAAAAAAAAQAAAAEBACAAACAAAAAAAgAABggQIU=</HashCode>
+      <FileName>Class2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="avioCreditSelenium.ThirdPageApplicationFactory" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQkAAQAAAAAcEAAIgACAQECAYAAAAAAAAgAIOGEABAg=</HashCode>
+      <FileName>ThirdPageApplicationFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="avioCreditSelenium.E2EAllPagesTest" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAABACAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>UnitTest3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
